@@ -1,1 +1,1 @@
-print "Hello World"
+sys.stderr.write("Hello World")
